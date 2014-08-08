@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+		<element name="a1" controlName="pageCheck1" controlType="CheckBox" dataPath="/data/pagingDTO.check2"/>
+		<element name="a2" controlName="pageCheck2" controlType="CheckBox" dataPath="/data/companyDTO/flag"/>
+		<element name="companyCode" controlName="companyCode" controlType="Label" dataPath="/data/companyDTO/companyCode"/>
+		<element name="companyName" controlName="companyName" controlType="Label" dataPath="/data/companyDTO/companyName"/>
+		<element name="IIN" controlName="IIN" controlType="RichText" dataPath="/data/companyDTO/companyName"/>
+		<element name="Settlement" controlName="Settlement" controlType="ListItem" dataPath="/data/pagingDTO.resultList">
+				<element name="taskNo" controlName="taskNo" controlType="RichText" dataPath="taskNo"/>
+				<element name="title" controlName="title" controlType="RichText" dataPath="title"/>
+		</element>
+
+
+
+
+		<element name="institutionName" controlName="institutionName" controlType="RichText" dataPath=""/>
+		<element name="Information" controlName="Information" controlType="RichText" dataPath=""/>
+		<element name="resource" controlName="resource" controlType="RichText" dataPath=""/>
+		<element name="TestPeriod" controlName="TestPeriod" controlType="RichText" dataPath=""/>
+		<element name="CertiticateItems" controlName="CertiticateItems" controlType="RichText" dataPath=""/>
+		<element name="CertificateLevel" controlName="CertificateLevel" controlType="RichText" dataPath=""/>
+		<element name="telPhone" controlName="telPhone" controlType="RichText" dataPath=""/>
+
+
+		
+		<element name="chkMSC" controlName="chkMSC" controlType="CheckBox" dataPath="" title="Magnetic Stripe Card Debit/Credit Transactions" />
+		<element name="chkCUPIC" controlName="chkCUPIC" controlType="CheckBox" dataPath="" title="CUPIC Debit/Credit Transactions" />
+		<element name="chkCommerice" controlName="chkCommerice" controlType="CheckBox" dataPath="" title="E-commerce Transactions" />
+		<element name="chkRemittance" controlName="chkRemittance" controlType="CheckBox" dataPath="" title="E-commerce Transactions" />
+		<element name="chkTransaction" controlName="chkTransaction" controlType="CheckBox" dataPath="" title="Installment Transactions" />
+		<element name="chkKey" controlName="chkKey" controlType="CheckBox" dataPath="" title="Key In Business" />
+		<element name="chkMoto" controlName="chkMoto" controlType="CheckBox" dataPath="" title="MOTO" />
+		<element name="chk_Recurring" controlName="chk_Recurring" controlType="CheckBox" dataPath="" title="Recurring" />
+		<element name="chkTransit" controlName="chkTransit" controlType="CheckBox" dataPath="" title="In-Transit commerce" />
+ 		<element name="chkOther" controlName="chkOther" controlType="CheckBox" dataPath="" title="Other Key-in Business " />
+		<element name="chkFrms" controlName="chkFrms" controlType="CheckBox" dataPath="" title="FRMS function" />
+                <element name="chkNewFee" controlName="chkNewFee" controlType="CheckBox" dataPath="" title="New Fee Scheme(2013) (C602 & FEEDTL)" />
+		<element name="chkStand" controlName="chkStand" controlType="CheckBox" dataPath="" title="Stand in service" />
+		<element name="chkChange" controlName="chkChange" controlType="CheckBox" dataPath="" title="Change for new specifications (Version_______)" />
+		<element name="chkOthers01" controlName="chkOthers01" controlType="CheckBox" dataPath="" title="Others" />
+		<element name="chkAc" controlName="chkAc" controlType="CheckBox" dataPath="" title="Acquirer" />
+
+
+		<element name="online" controlName="online" controlType="RichText" dataPath=""/>	
+		<element name="curr01" controlName="curr01" controlType="RichText" dataPath=""/>
+		<element name="curr02" controlName="curr02" controlType="RichText" dataPath=""/>
+		<element name="one" controlName="one" controlType="RichText" dataPath=""/>
+		<element name="curr02" controlName="curr02" controlType="RichText" dataPath=""/>
+		<element name="settleCurr02" controlName="settleCurr02" controlType="RichText" dataPath=""/>
+		<element name="two" controlName="two" controlType="RichText" dataPath=""/>
+      		<element name="chkIssuer" controlName="chkIssuer" controlType="CheckBox" dataPath="" title="Issuer" />
+		<element name="Receive" controlName="Receive" controlType="RichText" dataPath=""/>
+		<element name="Rcurr01" controlName="Rcurr01" controlType="RichText" dataPath=""/>
+                <element name="Rcurr02" controlName="Rcurr02" controlType="RichText" dataPath=""/>
+		<element name="RcurrOne" controlName="RcurrOne" controlType="RichText" dataPath=""/>
+		<element name="Rcurr03" controlName="Rcurr03" controlType="RichText" dataPath=""/>
+		<element name="Rcurr04" controlName="Rcurr04" controlType="RichText" dataPath=""/>
+		<element name="RcurrTwo" controlName="RcurrTwo" controlType="RichText" dataPath=""/>
+
+ 		<element name="chkSingle" controlName="chkSingle" controlType="CheckBox" dataPath="" title="Single Message" />
+		<element name="chkDual" controlName="chkDual" controlType="CheckBox" dataPath="" title="Dual Messages" />
+		<element name="chkFlow" controlName="chkFlow" controlType="CheckBox" dataPath="" title="Flow transfer" />
+		<element name="chkSFTP" controlName="chkSFTP" controlType="CheckBox" dataPath="" title="SFTP" />
+		<element name="chkMode" controlName="chkMode" controlType="CheckBox" dataPath="" title="Other mode" />
+		<element name="full" controlName="full" controlType="RichText" dataPath=""/>
+		<element name="chkFull" controlName="chkFull" controlType="CheckBox" dataPath="" title="2012 Fully version" />
+		<element name="chkBasic" controlName="chkBasic" controlType="CheckBox" dataPath="" title="2012 Basic version " />
+		<element name="chkSupp" controlName="chkSupp" controlType="CheckBox" dataPath="" title="Support" />
+		<element name="chkVer" controlName="chkVer" controlType="CheckBox" dataPath="" title="No support" />
+		<element name="chk3D" controlName="chk3D" controlType="CheckBox" dataPath="" title="3DES" />		
+		<element name="chkDes" controlName="chkDes" controlType="CheckBox" dataPath="" title="DES" />
+		<element name="chk3DesOne" controlName="chk3DesOne" controlType="CheckBox" dataPath="" title="3DES" />
+		<element name="chkDesOne" controlName="chkDesOne" controlType="CheckBox" dataPath="" title="DESC" />
+		<element name="chkSupp01" controlName="chkSupp01" controlType=CheckBox" dataPath="" title="Support" />
+		<element name="chkNo01" controlName="chkNo01" controlType="CheckBox" dataPath="" title="No support" />
+		<element name="chkSend" controlName="chkSend" controlType="CheckBox" dataPath="" title="Can support send idle message to UPI" />
+		<element name="chkRec" controlName="chkRec" controlType="CheckBox" dataPath="" title="Can support receive idle message from UPI" />
+		<element name="chkUn" controlName="chkUn" controlType="CheckBox" dataPath="" title="Un-support idle message" />
+		<element name="chkPass" controlName="chkPass" controlType="CheckBox" dataPath="" title="Fully passed" />
+		<element name="chkPassTwo" controlName="chkPassTwo" controlType="CheckBox" dataPath="" title="Passed" />
+		<element name="chkFailed" controlName="chkFailed" controlType="CheckBox" dataPath="" title="Failed" />
+		<element name="chkPassThree" controlName="chkPassThree" controlType="CheckBox"" dataPath="" title="Passed" />
+		<element name="chkFailedThree" controlName="chkFailedThree" controlType="CheckBox" dataPath="" title="Failed" />
+		<element name="chkpassFour" controlName="chkpassFour" controlType="CheckBox" dataPath="" title="Passed" />
+		<element name="chkFailedFour" controlName="chkFailedFour" controlType="CheckBox" dataPath="" title="Failed" />
+		<element name="chkNot" controlName="chkNot" controlType="CheckBox" dataPath="" title="Not Included" />
+		<element name="chkFive" controlName="chkFive" controlType="CheckBox" dataPath="" title="Passed" />
+		<element name="chkFailedFive" controlName="chkFailedFive" controlType="CheckBox" dataPath="" title="Failed" />
+		<element name="chkSex" controlName="chkSex" controlType=""CheckBox" dataPath="" title="Passed" />
+		<element name="chkFailedSex" controlName="chkFailedSex" controlType=""CheckBox" dataPath="" title="Failed" />
+		<element name="chkNotOne" controlName="chkNotOne" controlType=""CheckBox" dataPath="" title="Not Included" />
+
+
+
+		<element name="chkATM" controlName="chkATM" controlType="CheckBox" dataPath="" title="ATM Transactions" />
+		<element name="chkInquiry" controlName="chkInquiry" controlType="CheckBox" dataPath="" title="Inquiry" />
+		<element name="chkWidth" controlName="chkWidth" controlType="CheckBox" dataPath="" title="Withdrawal (Additional fee:_________ )" />
+		<element name="chkATMOne" controlName="chkATMOne" controlType="CheckBox" dataPath="" title="ATM Transactions" />
+		<element name="chkInquiryTwo" controlName="chkInquiryTwo" controlType="CheckBox" dataPath="" title="Inquiry" />
+		<element name="chkWidthTwo" controlName="chkWidthTwo" controlType="CheckBox" dataPath="" title="Withdrawal(Amount limitation/per day:_________ )" />
+		<element name="chkSingles" controlName="chkSingles" controlType="CheckBox" dataPath="" title="POS Transactions(Single message)" />
+		
+		<element name="chkPur" controlName="chkPur" controlType="CheckBox" dataPath="" title="purchase/purchase cancellation" />
+		<element name="chkPre" controlName="chkPre" controlType="CheckBox" dataPath="" title="Pre-Authorization/Pre-Authorization Cancellation Completion                         Cancellation" />
+		<element name="chkCom" controlName="chkCom" controlType="CheckBox" dataPath="" title="Pre-Authorization Completion/Pre-Authorization Completion                           Cancellation" />
+		<element name="chkRef" controlName="chkRef" controlType="CheckBox" dataPath="" title="refund" />
+
+		
+		<element name="chkPosOne" controlName="chkPosOne" controlType="CheckBox" dataPath="" title="POS Transactions(Single message)" />
+		<element name="chkPurOne" controlName="chkPurOne" controlType="CheckBox" dataPath="" title="purchase/purchase cancellation" />
+		<element name="chkPreOne" controlName="chkPreOne" controlType="CheckBox" dataPath="" title="Pre-Authorization/Pre-Authorization Cancellation                 		Completion" />
+		<element name="chkComOne" controlName="chkComOne" controlType="CheckBox" dataPath="" title="Pre-Authorization Completion/Pre-Authorization Completion 		Cancellation " />
+		<element name="chkRefOne" controlName="chkRefOne" controlType="CheckBox" dataPath="" title="refund" />
+		<element name="chkTrack" controlName="chkTrack" controlType="CheckBox" dataPath="" title="Key-in transactions/Track1 transactions(only for credit 		card)" />
+
+		<element name="chkPosTwo" controlName="chkPosTwo" controlType="CheckBox" dataPath="" title="POS Transactions(Dual message)" />
+		<element name="chkAuthorization" controlName="chkAuthorization" controlType="CheckBox" dataPath="" title="Authorization/Authorization Cancellatin             		(including transaction with authorization code and non-authorization code) " />
+
+
+		<element name="chkPosThree" controlName="chkPosThree" controlType="CheckBox" dataPath="" title="POS Transactions(Dual message)" />
+		<element name="chkAuthorizationOne" controlName="chkAuthorizationOne" controlType="CheckBox" dataPath="" title="Authorization/Authorization  		   		Cancellation" />
+		<element name="chkTrackOne" controlName="chkTrackOne" controlType="CheckBox" dataPath="" title="Key-in transactions/¡õTrack1 transactions(only for 		credit card)" />
+		
+		<element name="chkFallback" controlName="chkFallback" controlType="CheckBox" dataPath="" title="Fallback Transaction" />
+		<element name="chkCVN" controlName="chkCVN" controlType="CheckBox" dataPath="" title="CVN  Testing" />
+		<element name="chkTrackThree" controlName="chkTrackThree" controlType="CheckBox" dataPath="" title="Track 3 independent testing" />
+
+
+		<element name="chkCUPC" controlName="chkCUPC" controlType="CheckBox" dataPath="" title="CUPIC Debit/Credit Transactions" />
+		<element name="chkOBS" controlName="chkOBS" controlType="CheckBox" dataPath="" title="OBS Service" />
+		<element name="chkMagnetic" controlName="chkMagnetic" controlType="CheckBox" dataPath="" title="Magnetic Stripe Card Transactions" />
+
+
+		<element name="ChkTran" controlName="ChkTran" controlType="CheckBox" dataPath="" title="ATM Transactions" />
+		<element name="chkInquiryOne" controlName="chkInquiryOne" controlType="CheckBox" dataPath="" title="Inquery" />
+		<element name="chkWithrawal" controlName="chkWithrawal" controlType="CheckBox" dataPath="" title="Withdrawal( Additional fee:___________)" />
+		<element name="chkATMTransactions" controlName="chkATMTransactions" controlType="CheckBox" dataPath="" title="ATM Transactions" />
+		<element name="chkInqu" controlName="chkInqu" controlType="CheckBox" dataPath="" title="Inquiry" />
+		<element name="chkWidthDrawal" controlName="chkWidthDrawal" controlType="CheckBox" dataPath="" title="Withdrawal" />
+		<element name="chkPosTransaction" controlName="chkPosTransaction" controlType="CheckBox" dataPath="" title="POS Transactions(Single message)" />
+		<element name="chkPurchease" controlName="chkPurchease" controlType="CheckBox" dataPath="" title="purchase/purchase cancellation" />
+		<element name="chkPreAuthorization" controlName="chkPreAuthorization" controlType="CheckBox" dataPath="" title="Pre-Authorization/Pre-Authorization  			Cancellation" />
+		<element name="chkPreCom" controlName="chkPreCom" controlType="RichText" dataPath="" title="Pre-Authorization Completion/Pre-Authorization Completion 		        Cancellation " />
+		<element name="chrRef" controlName="chrRef" controlType="CheckBox" dataPath="" title="refund" />
+		<element name="chkKeyTrans" controlName="chkKeyTrans" controlType="CheckBox" dataPath="" title="Key-in transactions" />
+		<element name="chkTrackTrans" controlName="chkTrackTrans" controlType="CheckBox" dataPath="" title="Track1 transactions(only for credit card)" />
+		<element name="chkPosTranDual" controlName="chkPosTranDual" controlType="CheckBox" dataPath="" title="POS Transactions(Dual message)" />
+		<element name="chkAuthoriz" controlName="chkAuthoriz" controlType="CheckBox" dataPath="" title="Authorization/Authorization Cancellation" />
+		<element name="chkPOSTran" controlName="chkPOSTran" controlType="CheckBox" dataPath="" title="POS Transactions(Dual message)" />
+		<element name="chkAuthorizations" controlName="chkAuthorizations" controlType="CheckBox" dataPath="" title="Authorization/Authorization Cancellation"                 />
+		<element name="chkKeyOne" controlName="chkKeyOne" controlType="CheckBox" dataPath="" title="Key-in transactions" />
+		<element name="chkTrackOnly" controlName="chkTrackOnly" controlType="CheckBox" dataPath="" title="Track1 transactions(only for credit card)" />
+		<element name="chkTest" controlName="chkTest" controlType="CheckBox" dataPath="" title="CVN  Testing" />
+		<element name="chkTrackIndep" controlName="chkTrackIndep" controlType="CheckBox" dataPath="" title="Track 3 independent testing" />
+		<element name="chkAppliaction" controlName="chkAppliaction" controlType="CheckBox" dataPath="" title="Application-based IC Card Script Processing" />
+		<element name="chkApplicationOne" controlName="chkApplicationOne" controlType="CheckBox" dataPath="" title="Application-based IC Card Script 				Processing" />
+		<element name="chkCase" controlName="chkCase" controlType="CheckBox" dataPath="" title="E-cash Application-based Transactions" />
+		<element name="chkCaseOne" controlName="chkCaseOne" controlType="CheckBox" dataPath="" title="E-cash Application-based Transactions" />
+		<element name="chkEcommer" controlName="chkEcommer" controlType="CheckBox" dataPath="" title="E-Commerce Transactions" />
+		<element name="chkECoommOne" controlName="chkECoommOne" controlType="CheckBox" dataPath="" title="E-Commerce Transactions(Single message)" />
+		<element name="chkPurchaseOne" controlName="chkPurchaseOne" controlType="CheckBox" dataPath="" title="purchase/purchase cancellation" />
+		<element name="chkPerAuthorOne" controlName="chkPerAuthorOne" controlType="CheckBox" dataPath="" title="Pre-Authorization/Pre-Authorization 		Cancellation" />
+		<element name="chkAuthorCan" controlName="chkAuthorCan" controlType="CheckBox" dataPath="" title="Pre-Authorization Completion/Pre-Authorization 		Completion Cancellation" />
+		<element name="chkDualMessage" controlName="chkDualMessage" controlType="CheckBox" dataPath="" title="E-Commerce Transactions(Dual message)" />
+		<element name="chkInTwo" controlName="chkInTwo" controlType="CheckBox" dataPath="" title="Inquiry" />
+		<element name="chkOAuthorization" controlName="chkOAuthorization" controlType="CheckBox" dataPath="" title="0Authorization/Authorizatio" />
+
+
+		<element name="chkEComOne" controlName="chkEComOne" controlType="CheckBox" dataPath="" title="E-Commerce Transactions(single message)" />
+		<element name="chrcancellation" controlName="chrcancellation" controlType="CheckBox" dataPath="" title="purchase/purchase cancellation" />
+		<element name="chkCancell" controlName="chkCancell" controlType="CheckBox" dataPath="" title="Pre-Authorization/Pre-Authorization Cancellation" />
+		<element name="chkCompletion" controlName="chkCompletion" controlType="CheckBox" dataPath="" title="Pre-Authorization Completion/Pre-Authorization 		Completion Cancellation" />
+		<element name="chkInquiryThree" controlName="chkInquiryThree" controlType="CheckBox" dataPath="" title="Inquiry" />
+		<element name="chkAuthorCancell" controlName="chkAuthorCancell" controlType="CheckBox" dataPath="" title="Authorization/Authorization Cancellation" />
+		<element name="chkRem" controlName="chkRem" controlType="CheckBox" dataPath="" title="Remittance Transactions" />
+		<element name="chkAcc" controlName="chkAcc" controlType="CheckBox" dataPath="" title="Account Verification" />
+		<element name="chkRemce" controlName="chkRemce" controlType="CheckBox" dataPath="" title="Online Remittance" />
+		<element name="chkVerification" controlName="chkVerification" controlType="CheckBox" dataPath="" title="Account Verification" />
+		<element name="chkLine" controlName="chkLine" controlType="CheckBox" dataPath="" title="Online Remittance" />
+		<element name="chkIns" controlName="chkIns" controlType="CheckBox" dataPath="" title="Installment Transactions" />
+		<element name="chkTransOne" controlName="chkTransOne" controlType="CheckBox" dataPath="" title="POS Transactions(Single message)" />
+		<element name="chkCan" controlName="chkCan" controlType="CheckBox" dataPath="" title="purchase/purchase cancellation" />
+		<element name="chkCanOne" controlName="chkCanOne" controlType="CheckBox" dataPath="Pre-Authorization/Pre-Authorization Cancellation"/>
+		<element name="chkComTwo" controlName="chkComTwo" controlType="CheckBox" dataPath="" title="Pre-Authorization Completion/Pre-Authorization Completion 			Cancellation" />
+
+                <element name="chkSingleOne" controlName="chkSingleOne" controlType="CheckBox" dataPath="" title="POS Transactions(Single message)" />
+		<element name="chkPruCancell" controlName="chkPruCancell" controlType="CheckBox" dataPath="" title="purchase/purchase cancellation" />
+		<element name="chkAuthorizactions" controlName="chkAuthorizactions" controlType="CheckBox" dataPath="" title="Pre-Authorization/Pre-Authorization 			Cancellation" />
+		<element name="chkTransDual" controlName="chkTransDual" controlType="CheckBox" dataPath="" title="POS Transactions(Dual message)" />
+		<element name="chkAuthCancell" controlName="chkAuthCancell" controlType="CheckBox" dataPath="" title="Authorization/Authorization Cancellation" />
+		<element name="chkDualOne" controlName="chkDualOne" controlType="CheckBox" dataPath="" title="POS Transactions(Dual message) " />
+		<element name="chkCancellation" controlName="chkCancellation" controlType="CheckBox" dataPath="Authorization/Authorization Cancellation"/>
+		
+
+		<element name="chkMO" controlName="chkMO" controlType="CheckBox" dataPath="" title="MOTO  business" />
+		<element name="chkFOne" controlName="chkFOne" controlType="CheckBox" dataPath="" title="No F61/" />
+		<element name="chkIncluding" controlName="chkIncluding" controlType="CheckBox" dataPath="" title="Including F61 validation" />
+		<element name="chkMoSingle" controlName="chkMoSingle" controlType="CheckBox" dataPath="" title="MO/TO Transactions(Single message)" />
+		<element name="chkCancelTwo" controlName="chkCancelTwo" controlType="CheckBox" dataPath="" title="Purchase/Purchase Cancellation" />
+		<element name="chkCancellThree" controlName="chkCancellThree" controlType="CheckBox" dataPath="" title="Pre-Authorization/Pre-Authorization 		 		Cancellation" />
+
+		<element name="chkAuthorTwo" controlName="chkAuthorTwo" controlType="CheckBox" dataPath="" title="Pre-Authorization Completion/Pre-Authorization 		Completion Cancellation" />
+		
+		<element name="chkMOTransaction" controlName="chkMOTransaction" controlType="CheckBox" dataPath="" title="MO/TO Transactions(Single message)" />
+		<element name="chkPurchaseThree" controlName="chkPurchaseThree" controlType="CheckBox" dataPath="" title="Purchase/Purchase Cancellation" />
+		<element name="chkPreThree" controlName="chkPreThree" controlType="CheckBox" dataPath="" title="Pre-Authorization Completion/Pre-Authorization 		Completion Cancellation " />
+		<element name="chkDualMess" controlName="chkDualMess" controlType="CheckBox" dataPath="" title="MO/TO Transactions(Dual message)" />
+		<element name="chkCanThree" controlName="chkCanThree" controlType="CheckBox" dataPath="" title="Authorization/Authorization Cancellation" />
+		<element name="chkDualMessOne" controlName="chkDualMessOne" controlType="CheckBox" dataPath="" title="MO/TO Transactions(Dual message)" />
+		<element name="chkCancellationOne" controlName="chkCancellationOne" controlType="CheckBox" dataPath="" title="Authorization/Authorization Cancellation" 		/>
+		<element name="chkInBusiness" controlName="chkInBusiness" controlType="CheckBox" dataPath="" title="Key-In business" />
+		<element name="chkF" controlName="chkF" controlType="CheckBox" dataPath="" title="No F61/"  />
+		<element name="chkInF" controlName="chkInF" controlType="CheckBox" dataPath="" title="Including F61 validation" />
+		<element name="chkRecurring" controlName="chkRecurring" controlType="CheckBox" dataPath="" title="Recurring Transactions(Single message)" />
+		<element name="chrPurchaseTwo" controlName="chrPurchaseTwo" controlType="CheckBox" dataPath="" title="Purchase/Purchase Cancellation"/>
+		<element name="chkTransactionsTwo" controlName="chkTransactionsTwo" controlType="CheckBox" dataPath="" title="Recurring Transactions(Single message)" 			/>
+		<element name="chrCancellations" controlName="chrCancellations" controlType="CheckBox" dataPath="" title="Purchase/Purchase Cancellation" />
+
+		<element name="chkRecurringTwo" controlName="chkRecurringTwo" controlType="CheckBox" dataPath="" title="Recurring Transactions(Dual message)" />
+		<element name="chkCancellationTwo" controlName="chkCancellationTwo" controlType="CheckBox" dataPath="" title="Authorization/Authorization Cancellation" 		/>
+
+		<element name="chkRecurringThree" controlName="chkRecurringThree" controlType="CheckBox" dataPath="" title="Recurring Transactions(Dual message)" />
+		<element name="chkAuthorizationsOne" controlName="chkAuthorizationsOne" controlType="CheckBox" dataPath="" title="Authorization/Authorization 				Cancellation" />
+		
+		<element name="chkInbusess" controlName="chkInbusess" controlType="CheckBox" dataPath="" title="In-transit business" />
+		<element name="chkHot" controlName="chkHot" controlType="CheckBox" dataPath="" title="HotCard file import" />
+		<element name="chkInTrans" controlName="chkInTrans" controlType="CheckBox" dataPath="" title="In-transit transaction" />
+		<element name="chkHotCard" controlName="chkHotCard" controlType="CheckBox" dataPath="" title="HotCard file present" />
+		<element name="chkCarParking" controlName="chkCarParking" controlType="CheckBox" dataPath="" title="car-parking transaction" />
+
+
+
+		<element name="chkCard" controlName="chkCard" controlType="RichText" dataPath="" title="HotCard file submitting" />
+		<element name="chkInTransit" controlName="chkInTransit" controlType="CheckBox" dataPath="" title="In-transit transaction" />
+
+
+		
+	
+		<element name="chkCar" controlName="chkCar" controlType="CheckBox" dataPath="" title="car-parking business" />
+		<element name="chkHotOne" controlName="chkHotOne" controlType="CheckBox" dataPath="" title="HotCard file import" />
+		<element name="chkCarOne" controlName="chkCarOne" controlType="CheckBox" dataPath="" title="car-parking transaction " />
+
+		<element name="chkOtherKey" controlName="chkOtherKey" controlType="CheckBox" dataPath="" title="other key-in business" />
+		<element name="chkAutom" controlName="chkAutom" controlType="RichText" dataPath="" title="Automobile rentals business" />
+		<element name="chkRentals" controlName="chkRentals" controlType="RichText" dataPath="" title="Automobile rentals business" />
+
+
+		<element name="chkFun" controlName="chkFun" controlType="CheckBox" dataPath="" title="FRMS function" />
+		<element name="chkFraud" controlName="chkFraud" controlType="RichText" dataPath="" title="Fraud Reporting" />
+		<element name="chkIF" controlName="chkIF" controlType="RichText" dataPath="" title="IFDYYMMDD51ANM file submitting" />
+		<element name="chkHcr" controlName="chkHcr" controlType="RichText" dataPath="" title="IFDYYMMDD51HCR file submitting" />
+		<element name="chkIFDYY" controlName="chkIFDYY" controlType="RichText" dataPath="" title="IFDYYMMDD51RPT file submitting" />
+		<element name="chrStand" controlName="chrStand" controlType="RichText" dataPath="" title="Stand in Service" />
+		<element name="chkStandAuthor" controlName="chkStandAuthor" controlType="RichText" dataPath="" title="Stand-in Authorization Service" />
+		<element name="chkEcho" controlName="chkEcho" controlType="RichText" dataPath="" title="Stand-in Echo message" />
+		<element name="chrStandIn" controlName="chrStandIn" controlType="RichText" dataPath="" title="Stand-in Transamission activate/suspend message" />
+
+		<element name="chkTransmission" controlName="chkTransmission" controlType="RichText" dataPath="Stand-in transaction Transmission advice(online) 		message"/>
+		<element name="chkAutomatic" controlName="chkAutomatic" controlType="RichText" dataPath="" title="Automatic Stand-in Authorization Service" />
+		<element name="chkSign" controlName="chkSign" controlType="RichText" dataPath="" title="Sign off" />
+		<element name="chkMessage" controlName="chkMessage" controlType="RichText" dataPath="" title="Echo Message Tim-out" />
+
+
+		<element name="chkFor" controlName="chkFor" controlType="RichText" dataPath="" title="Change for New  specifications" />
+		<element name="chkFee" controlName="chkFee" controlType="RichText" dataPath="" title="New Fee Scheme(2013) (C602 & FEEDTL)" />
+		<element name="chkRoutime" controlName="chkRoutime" controlType="RichText" dataPath="" title="Routine Technical Specification Enhancement (OB23-2013)				" />
+		
+
+		<element name="chkFeeScheme" controlName="chkFeeScheme" controlType="RichText" dataPath="" title="New Fee Scheme(2013) (C602 & FEEDTL)" />
+		<element name="chkRoutine" controlName="chkRoutine" controlType="RichText" dataPath="" title="Routine Technical Specification Enhancement (OB23-2013)" 		/>
+		
+	
+		<element name="chkOtherBusiness" controlName="chkOtherBusiness" controlType="RichText" dataPath="" title="Other business" />
+		<element name="chkSettlement" controlName="chkSettlement" controlType="RichText" dataPath="" title="RMB settlement service" />
+		<element name="chkRussian" controlName="chkRussian" controlType="RichText" dataPath="" title="Russian local clearing and settlement" />
+		<element name="chkservice" controlName="chkservice" controlType="RichText" dataPath="" title="RMB settlement service" />
+		<element name="chkRussianLocal" controlName="chkRussianLocal" controlType="RichText" dataPath="" title="Russian local clearing and settlement" />
+
+		<element name="chkRemark" controlName="chkRemark" controlType="RichText" dataPath="" title="Remark" />
+
+</root>
+
+
+chkRemark
+	
+
+
+
+
+		<element name="" controlName="" controlType="RichText" dataPath=""/>
+
+</root>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

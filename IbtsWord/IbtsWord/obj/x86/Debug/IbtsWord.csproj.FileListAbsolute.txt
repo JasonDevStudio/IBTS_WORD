@@ -1,0 +1,16 @@
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.csproj.ResolveComReference.cache
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\bin\Debug\IbtsWord.exe
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\bin\Debug\IbtsWord.pdb
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.Form1.resources
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.Properties.Resources.resources
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.exe
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.pdb
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\bin\Debug\IbtsWord.exe.config
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.LoginView.resources
+C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.MainView.resources
