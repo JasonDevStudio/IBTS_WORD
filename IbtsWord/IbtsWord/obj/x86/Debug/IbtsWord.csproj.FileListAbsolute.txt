@@ -14,3 +14,24 @@ C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\bin\Deb
 C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\bin\Debug\Newtonsoft.Json.xml
 C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.LoginView.resources
 C:\Users\BaiYang\Documents\Visual Studio 2010\Projects\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.MainView.resources
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\bin\Debug\IbtsWord.exe.config
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.csproj.ResolveComReference.cache
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\bin\Debug\IbtsWord.exe
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\bin\Debug\IbtsWord.pdb
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\bin\Debug\Newtonsoft.Json.dll
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\bin\Debug\Newtonsoft.Json.pdb
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\bin\Debug\Newtonsoft.Json.xml
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.csprojResolveAssemblyReference.cache
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.Form1.resources
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.MainView.resources
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.LoginView.resources
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.Properties.Resources.resources
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.csproj.GenerateResource.Cache
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.exe
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\obj\x86\Debug\IbtsWord.pdb
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\bin\Debug\Aspose.Words.dll
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\bin\Debug\Aspose.Words.xml
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\bin\Debug\WordDocument1.dll
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Project\IBTS_WORD\IbtsWord\IbtsWord\bin\Debug\WordDocument1.pdb

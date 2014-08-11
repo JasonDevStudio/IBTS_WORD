@@ -120,7 +120,7 @@
 
 		<element name="chkPosThree" controlName="chkPosThree" controlType="CheckBox" dataPath="" title="POS Transactions(Dual message)" />
 		<element name="chkAuthorizationOne" controlName="chkAuthorizationOne" controlType="CheckBox" dataPath="" title="Authorization/Authorization  		   		Cancellation" />
-		<element name="chkTrackOne" controlName="chkTrackOne" controlType="CheckBox" dataPath="" title="Key-in transactions/¡õTrack1 transactions(only for 		credit card)" />
+		<element name="chkTrackOne" controlName="chkTrackOne" controlType="CheckBox" dataPath="" title="Key-in transactions/ï¿½ï¿½Track1 transactions(only for 		credit card)" />
 		
 		<element name="chkFallback" controlName="chkFallback" controlType="CheckBox" dataPath="" title="Fallback Transaction" />
 		<element name="chkCVN" controlName="chkCVN" controlType="CheckBox" dataPath="" title="CVN  Testing" />
